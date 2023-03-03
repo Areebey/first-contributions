@@ -31,6 +31,7 @@
 - [Hemant Maurya](https://github.com/hemantmaurya344)
 - Debobani Ghosh
 - [Anshuman Rout](https://github.com/anshuman0123)
+- [Sonia Fatima](https://github.com/Sofatyma)
 - [Divya Kaushik](https://github.com/divya1515)
 - [Daniel Stai](https://github.com/DanielStai)
 - [Ansh Shori](https://github.com/anshshori2002)
